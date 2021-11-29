@@ -80,4 +80,4 @@ if ($this->direction == 'rtl'){
 		$aside_right_width = "";
 	}
 
-$mainContentWidth = 12 - ($aside_left_width + $aside_right_width);
+//$mainContentWidth = 12 - ($aside_left_width + $aside_right_width);

@@ -24,7 +24,7 @@ class MediaControllerFile extends JControllerLegacy
 	 *
 	 * @var   string
 	 */
-	protected $folder = '';
+	public $folder = '';
 
 	/**
 	 * Upload one or more files

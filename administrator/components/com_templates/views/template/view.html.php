@@ -34,7 +34,7 @@ class TemplatesViewTemplate extends JViewLegacy
 	/**
 	 * For loading source file contents
 	 */
-	protected $source;
+	public $source;
 
 	/**
 	 * Extension id
